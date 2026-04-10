@@ -39,7 +39,7 @@ export default function ArTechnik() {
           <div className="relative w-[180px] h-[60px] md:w-[220px] md:h-[70px]">
             <Image 
               src="/images/ar-technik-logo-okno.png" 
-              alt="AR TECHNIK Logo" 
+              alt="AR-TECHNIK Logo" 
               fill
               priority
               className="object-contain"
