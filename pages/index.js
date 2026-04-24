@@ -99,7 +99,7 @@ export default function ArTechnik() {
                   />
                   <div className="absolute bottom-4 left-4 right-4 bg-white/95 backdrop-blur p-4 rounded-2xl shadow-xl flex items-center justify-between border border-slate-100">
                     <div>
-                      <span className="block text-[10px] font-black text-blue-600 uppercase tracking-widest leading-none">Cena servisu bytu</span>
+                      <span className="block text-[10px] font-black text-blue-600 uppercase tracking-widest leading-none">Cena výjezdu a servisu standardního bytu v Praze</span>
                       <span className="text-xl md:text-2xl font-black italic text-slate-900">1 200 Kč <span className="text-xs font-normal not-italic text-slate-400 uppercase">bez DPH</span></span>
                     </div>
                     <CheckBadgeIcon className="w-8 h-8 text-blue-600 opacity-20" />
